@@ -119,6 +119,10 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            SelectableText(
+              '$_counter',
+              style: Theme.of(context).textTheme.headlineMedium,
+            )
           ],
         ),
       ),
